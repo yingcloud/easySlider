@@ -60,6 +60,8 @@
 		}; 
 		
 		var options = $.extend(defaults, options);  
+
+		$('ul>li', this).show();
 				
 		this.each(function() {  
 			var obj = $(this); 				

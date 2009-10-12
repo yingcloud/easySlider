@@ -80,6 +80,7 @@ body {
 		width:696px;
 		height:241px;
 		overflow:hidden; 
+		display:none;
 		}	
 	#prevBtn, #nextBtn,
 	#slider1next, #slider1prev{ 
